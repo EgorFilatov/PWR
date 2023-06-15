@@ -1,0 +1,220 @@
+Removed Pin From Net: NetName=NetK2_2 Pin=R6-1
+Removed Pin From Net: NetName=NetK3_2 Pin=R11-1
+Removed Member From Class: ClassName=PWR_SCH Member=R10
+Removed Member From Class: ClassName=PWR_SCH Member=R11
+Removed Member From Class: ClassName=PWR_SCH Member=R12
+Removed Member From Class: ClassName=PWR_SCH Member=R13
+Removed Member From Class: ClassName=PWR_SCH Member=R14
+Removed Member From Class: ClassName=PWR_SCH Member=R15
+Change Component Footprint: Designator=R5 Old Footprint=RES: 0603 New Footprint=RES: 0402
+Change Component Footprint: Designator=R6 Old Footprint=RES: 0603 New Footprint=RES: 0402
+Change Component Footprint: Designator=R7 Old Footprint=RES: 0603 New Footprint=RES: 0402
+Change Component Footprint: Designator=R8 Old Footprint=RES: 0603 New Footprint=RES: 0402
+Change Component Footprint: Designator=R9 Old Footprint=RES: 0603 New Footprint=RES: 0402
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RES: 0603"; UniqueID = "\LSQIXOHD" ("\LSQIXOHD")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1.5K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RES: 0603"; UniqueID = "\ATYEUYAF" ("\ATYEUYAF")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "RES: 0603"; UniqueID = "\EYCRDAOG" ("\EYCRDAOG")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "RES: 0603"; UniqueID = "\HUXHUSKM" ("\HUXHUSKM")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RES: 0603"; UniqueID = "\ZGMQLOOW" ("\ZGMQLOOW")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=K1(RM96)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.tme.eu/Document/00f3bdd8399fa4342821d33e99da3c32/RM96_EN.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.tme.eu/ru/details/rm96-3011-35-1012/rele-elektromagn-miniatiurnye/relpol/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ïðîèçâîäèòåëü"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=K2(RM96)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.tme.eu/Document/00f3bdd8399fa4342821d33e99da3c32/RM96_EN.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.tme.eu/ru/details/rm96-3011-35-1012/rele-elektromagn-miniatiurnye/relpol/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ïðîèçâîäèòåëü"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=K3(RM96)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.tme.eu/Document/00f3bdd8399fa4342821d33e99da3c32/RM96_EN.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.tme.eu/ru/details/rm96-3011-35-1012/rele-elektromagn-miniatiurnye/relpol/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ïðîèçâîäèòåëü"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES: 0402)
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES: 0402)
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES: 0402)
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES: 0402)
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SMD-4)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://eu.mouser.com/datasheet/2/239/LTV-357T_series_RevP-1543500.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Lite-On/LTV-357T?qs=IhlP1sn3qi5zhJzi4zUCwQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "SMD-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Optocouplers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(SMD-4)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://eu.mouser.com/datasheet/2/239/LTV-357T_series_RevP-1543500.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Lite-On/LTV-357T?qs=IhlP1sn3qi5zhJzi4zUCwQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "SMD-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Optocouplers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VT1(SOT-23-3)
+Add component (AddParameter): Name = "Analogue"; Value = "NX7002AK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://eu.mouser.com/datasheet/2/308/NDS7002A_D-1522662.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/onsemi-Fairchild/2N7002?qs=0dwsXDNhqlz66WJJhrTFjQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "MOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VT2(SOT-23-3)
+Add component (AddParameter): Name = "Analogue"; Value = "NX7002AK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://eu.mouser.com/datasheet/2/308/NDS7002A_D-1522662.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/onsemi-Fairchild/2N7002?qs=0dwsXDNhqlz66WJJhrTFjQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "MOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found MSTB 2.5 5-GF-5.08
+Added Pin To Net: NetName=+12V Pin=K1-1
+Added Pin To Net: NetName=GND_12V Pin=K1-2
+Added Pin To Net: NetName=+12V Pin=K2-1
+Added Pin To Net: NetName=NetK2_2 Pin=K2-2
+Added Pin To Net: NetName=+12V Pin=K3-1
+Added Pin To Net: NetName=NetK3_2 Pin=K3-2
+Added Pin To Net: NetName=GND_12V Pin=R1-1
+Added Pin To Net: NetName=+12V Pin=R1-2
+Added Pin To Net: NetName=NetK2_2 Pin=R2-1
+Added Pin To Net: NetName=+12V Pin=R2-2
+Added Pin To Net: NetName=+5V Pin=R3-1
+Added Pin To Net: NetName=GND_5V Pin=R3-2
+Added Pin To Net: NetName=GND_5V Pin=R5-2
+Added Pin To Net: NetName=NetK3_2 Pin=R6-1
+Added Pin To Net: NetName=+12V Pin=R6-2
+Added Pin To Net: NetName=WATCHDOG Pin=R7-1
+Added Pin To Net: NetName=GND_5V Pin=R7-2
+Added Pin To Net: NetName=GND_5V Pin=R9-2
+Added Pin To Net: NetName=+5V Pin=U1-1
+Added Pin To Net: NetName=+12V Pin=U1-4
+Added Pin To Net: NetName=WATCHDOG Pin=U2-1
+Added Pin To Net: NetName=+12V Pin=U2-4
+Added Pin To Net: NetName=NetK2_2 Pin=VT1-2
+Added Pin To Net: NetName=GND_12V Pin=VT1-3
+Added Pin To Net: NetName=NetR8_2 Pin=VT2-1
+Added Pin To Net: NetName=NetK3_2 Pin=VT2-2
+Added Pin To Net: NetName=GND_12V Pin=VT2-3
+Add Pin To Net: Unknown Pin: Pin XP1-1
+Add Pin To Net: Unknown Pin: Pin XP1-2
+Add Pin To Net: Unknown Pin: Pin XP1-3
+Add Pin To Net: Unknown Pin: Pin XP1-4
+Add Pin To Net: Unknown Pin: Pin XP1-5
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U1-3
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=VT1-1
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U1-2
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=U2-3
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=U2-2
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=watchdog_1 Pin=K1-3
+Added Pin To Net: NetName=watchdog_1 Pin=K2-3
+Added Pin To Net: NetName=watchdog_1 Pin=K3-5
+Added Pin To Net: NetName=watchdog_1 Pin=XP8-1
+Added Net: Name=watchdog_1
+Added Pin To Net: NetName=watchdog_2 Pin=K1-4
+Added Pin To Net: NetName=watchdog_2 Pin=K2-4
+Added Pin To Net: NetName=watchdog_2 Pin=K3-4
+Added Pin To Net: NetName=watchdog_2 Pin=XP8-2
+Added Net: Name=watchdog_2
+Added Member To Class: ClassName=PWR_SCH Member=Component K1 RM96-3011-35-1012
+Added Member To Class: ClassName=PWR_SCH Member=Component K2 RM96-3011-35-1012
+Added Member To Class: ClassName=PWR_SCH Member=Component K3 RM96-3011-35-1012
+Added Member To Class: ClassName=PWR_SCH Member=Component R1
+Added Member To Class: ClassName=PWR_SCH Member=Component R2
+Added Member To Class: ClassName=PWR_SCH Member=Component R3
+Added Member To Class: ClassName=PWR_SCH Member=Component R4
+Added Member To Class: ClassName=PWR_SCH Member=Component U1 LTV-357T
+Added Member To Class: ClassName=PWR_SCH Member=Component U2 LTV-357T
+Added Member To Class: ClassName=PWR_SCH Member=Component VT1 2N7002(NX7002AK)
+Added Member To Class: ClassName=PWR_SCH Member=Component VT2 2N7002(NX7002AK)
+Add Class Member: Failed to add class member : Component XP1 MSTB 2,5 5-GF-5,08

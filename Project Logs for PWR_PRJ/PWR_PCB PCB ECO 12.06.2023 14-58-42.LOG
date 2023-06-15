@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND_12V Pin=R1-1
+Removed Pin From Net: NetName=+12V Pin=R1-2
+Removed Pin From Net: NetName=NetK2_1 Pin=R2-1
+Removed Pin From Net: NetName=+12V Pin=R2-2
+Removed Pin From Net: NetName=NetK3_1 Pin=R6-1
+Removed Pin From Net: NetName=+12V Pin=R6-2
+Removed Member From Class: ClassName=PWR_SCH Member=R1
+Removed Member From Class: ClassName=PWR_SCH Member=R2
+Removed Member From Class: ClassName=PWR_SCH Member=R6
+Add Component: Footprint Not Found MSTB 2.5 5-GF-5.08
+Add Pin To Net: Unknown Pin: Pin XP1-1
+Add Pin To Net: Unknown Pin: Pin XP1-2
+Add Pin To Net: Unknown Pin: Pin XP1-3
+Add Pin To Net: Unknown Pin: Pin XP1-4
+Add Pin To Net: Unknown Pin: Pin XP1-5
+Add Class Member: Failed to add class member : Component XP1 MSTB 2,5 5-GF-5,08

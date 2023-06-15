@@ -1,0 +1,40 @@
+Added Component: Designator=VD1(SOD-123)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.diodes.com/assets/Datasheets/BAV16W_1N4148W.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Diodes-Incorporated/1N4148W-7-F?qs=LHX0FizJzg7Ae9ZM8LTAWw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "SOD-123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD2(SOD-123)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.diodes.com/assets/Datasheets/BAV16W_1N4148W.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Diodes-Incorporated/1N4148W-7-F?qs=LHX0FizJzg7Ae9ZM8LTAWw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "SOD-123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD3(SOD-123)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.diodes.com/assets/Datasheets/BAV16W_1N4148W.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Diodes-Incorporated/1N4148W-7-F?qs=LHX0FizJzg7Ae9ZM8LTAWw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "SOD-123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found MSTB 2.5 5-GF-5.08
+Added Pin To Net: NetName=+12V Pin=VD1-1
+Added Pin To Net: NetName=GND_12V Pin=VD1-2
+Added Pin To Net: NetName=+12V Pin=VD2-1
+Added Pin To Net: NetName=NetK2_1 Pin=VD2-2
+Added Pin To Net: NetName=+12V Pin=VD3-1
+Added Pin To Net: NetName=NetK3_1 Pin=VD3-2
+Add Pin To Net: Unknown Pin: Pin XP1-1
+Add Pin To Net: Unknown Pin: Pin XP1-2
+Add Pin To Net: Unknown Pin: Pin XP1-3
+Add Pin To Net: Unknown Pin: Pin XP1-4
+Add Pin To Net: Unknown Pin: Pin XP1-5
+Added Member To Class: ClassName=PWR_SCH Member=Component VD1 1N4148W-7-F
+Added Member To Class: ClassName=PWR_SCH Member=Component VD2 1N4148W-7-F
+Added Member To Class: ClassName=PWR_SCH Member=Component VD3 1N4148W-7-F
+Add Class Member: Failed to add class member : Component XP1 MSTB 2,5 5-GF-5,08

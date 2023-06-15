@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=+5V Pin=UG1-3
+Removed Pin From Net: NetName=GND_5V Pin=UG1-4
+Removed Pin From Net: NetName=+5V Pin=UG2-3
+Removed Pin From Net: NetName=GND_5V Pin=UG2-4
+Add Component: Footprint Not Found MSTB 2.5 5-GF-5.08
+Added Pin To Net: NetName=+5V Pin=UG1-4
+Added Pin To Net: NetName=GND_5V Pin=UG1-5
+Added Pin To Net: NetName=+5V Pin=UG2-4
+Added Pin To Net: NetName=GND_5V Pin=UG2-5
+Add Pin To Net: Unknown Pin: Pin XP1-1
+Add Pin To Net: Unknown Pin: Pin XP1-2
+Add Pin To Net: Unknown Pin: Pin XP1-3
+Add Pin To Net: Unknown Pin: Pin XP1-4
+Add Pin To Net: Unknown Pin: Pin XP1-5
+Added Member To Class: ClassName=PWR_SCH Member=Component UG2 RPD-60A
+Add Class Member: Failed to add class member : Component XP1 MSTB 2,5 5-GF-5,08

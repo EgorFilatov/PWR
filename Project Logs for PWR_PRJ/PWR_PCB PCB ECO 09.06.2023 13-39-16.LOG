@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=+12V Pin=K1-1
+Removed Pin From Net: NetName=GND_12V Pin=K1-2
+Removed Pin From Net: NetName=+12V Pin=K2-1
+Removed Pin From Net: NetName=+12V Pin=K3-1
+Add Component: Footprint Not Found MSTB 2.5 5-GF-5.08
+Added Pin To Net: NetName=GND_12V Pin=K1-1
+Added Pin To Net: NetName=+12V Pin=K1-2
+Added Pin To Net: NetName=+12V Pin=K2-2
+Added Pin To Net: NetName=+12V Pin=K3-2
+Add Pin To Net: Unknown Pin: Pin XP1-1
+Add Pin To Net: Unknown Pin: Pin XP1-2
+Add Pin To Net: Unknown Pin: Pin XP1-3
+Add Pin To Net: Unknown Pin: Pin XP1-4
+Add Pin To Net: Unknown Pin: Pin XP1-5
+Added Pin To Net: NetName=NetK2_1 Pin=K2-1
+Added Pin To Net: NetName=NetK2_1 Pin=R2-1
+Added Pin To Net: NetName=NetK2_1 Pin=VT1-2
+Added Net: Name=NetK2_1
+Added Pin To Net: NetName=NetK3_1 Pin=K3-1
+Added Pin To Net: NetName=NetK3_1 Pin=R6-1
+Added Pin To Net: NetName=NetK3_1 Pin=VT2-2
+Added Net: Name=NetK3_1
+Add Class Member: Failed to add class member : Component XP1 MSTB 2,5 5-GF-5,08

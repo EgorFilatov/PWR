@@ -1,0 +1,37 @@
+Added Component: Designator=UG1(ECL30-P)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.xppower.com/portals/0/pdfs/SF_ECL30.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/XP-Power/ECL30UD03-P?qs=w%2Fv1CP2dgqp0UmTCbSDp0g%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XP Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Switching Power Supplies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=UG2(ECL30-P)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.xppower.com/portals/0/pdfs/SF_ECL30.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/XP-Power/ECL30UD03-P?qs=w%2Fv1CP2dgqp0UmTCbSDp0g%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XP Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Switching Power Supplies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found MSTB 2.5 5-GF-5.08
+Added Pin To Net: NetName=N_1 Pin=UG1-1
+Added Pin To Net: NetName=L_1 Pin=UG1-2
+Added Pin To Net: NetName=GND_5V Pin=UG1-3
+Added Pin To Net: NetName=+5V Pin=UG1-4
+Added Pin To Net: NetName=GND_12V Pin=UG1-5
+Added Pin To Net: NetName=+12V Pin=UG1-6
+Added Pin To Net: NetName=N_2 Pin=UG2-1
+Added Pin To Net: NetName=L_2 Pin=UG2-2
+Added Pin To Net: NetName=GND_5V Pin=UG2-3
+Added Pin To Net: NetName=+5V Pin=UG2-4
+Added Pin To Net: NetName=GND_12V Pin=UG2-5
+Added Pin To Net: NetName=+12V Pin=UG2-6
+Add Pin To Net: Unknown Pin: Pin XP1-1
+Add Pin To Net: Unknown Pin: Pin XP1-2
+Add Pin To Net: Unknown Pin: Pin XP1-3
+Add Pin To Net: Unknown Pin: Pin XP1-4
+Add Pin To Net: Unknown Pin: Pin XP1-5
+Added Member To Class: ClassName=PWR_SCH Member=Component UG1 ECL30UD03-P
+Added Member To Class: ClassName=PWR_SCH Member=Component UG2 ECL30UD03-P
+Add Class Member: Failed to add class member : Component XP1 MSTB 2,5 5-GF-5,08

@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=N_1 Pin=UG1-1
+Removed Pin From Net: NetName=L_1 Pin=UG1-2
+Removed Pin From Net: NetName=GND_5V Pin=UG1-3
+Removed Pin From Net: NetName=+5V Pin=UG1-4
+Removed Pin From Net: NetName=GND_12V Pin=UG1-5
+Removed Pin From Net: NetName=+12V Pin=UG1-6
+Removed Pin From Net: NetName=N_2 Pin=UG2-1
+Removed Pin From Net: NetName=L_2 Pin=UG2-2
+Removed Pin From Net: NetName=GND_5V Pin=UG2-3
+Removed Pin From Net: NetName=+5V Pin=UG2-4
+Removed Pin From Net: NetName=GND_12V Pin=UG2-5
+Removed Pin From Net: NetName=+12V Pin=UG2-6
+Change Component Footprint: Designator=UG1 Old Footprint=ECL30-P New Footprint=RPD-60A
+Change Component Footprint: Designator=UG2 Old Footprint=ECL30-P New Footprint=RPD-60A
+Change Component Comment : Designator=UG1 Old Comment=ECL30UD03-P New Comment=RPD-60A
+Change Component Comment : Designator=UG2 Old Comment=ECL30UD03-P New Comment=RPD-60A
+Change component parameters: Designator = "UG1" ("UG1"); Footprint = "ECL30-P"; UniqueID = "\QTWTIYOA" ("\QTWTIYOA")
+Change component parameters (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://meanwell.by/datasheet/istochniki-pitaniya/pdf-41408.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/MEAN-WELL/RPD-60A?qs=V9a8iPeg90yJhi69srjWpw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "MEAN WELL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Switching Power Supplies"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "UG2" ("UG2"); Footprint = "ECL30-P"; UniqueID = "\SEGVDTTU" ("\SEGVDTTU")
+Change component parameters (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://meanwell.by/datasheet/istochniki-pitaniya/pdf-41408.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/MEAN-WELL/RPD-60A?qs=V9a8iPeg90yJhi69srjWpw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "MEAN WELL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Switching Power Supplies"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found MSTB 2.5 5-GF-5.08
+Added Pin To Net: NetName=L_1 Pin=UG1-1
+Added Pin To Net: NetName=N_1 Pin=UG1-2
+Added Pin To Net: NetName=+5V Pin=UG1-3
+Added Pin To Net: NetName=GND_5V Pin=UG1-4
+Added Pin To Net: NetName=GND_12V Pin=UG1-6
+Added Pin To Net: NetName=+12V Pin=UG1-7
+Added Pin To Net: NetName=L_2 Pin=UG2-1
+Added Pin To Net: NetName=N_2 Pin=UG2-2
+Added Pin To Net: NetName=+5V Pin=UG2-3
+Added Pin To Net: NetName=GND_5V Pin=UG2-4
+Added Pin To Net: NetName=GND_12V Pin=UG2-6
+Added Pin To Net: NetName=+12V Pin=UG2-7
+Add Pin To Net: Unknown Pin: Pin XP1-1
+Add Pin To Net: Unknown Pin: Pin XP1-2
+Add Pin To Net: Unknown Pin: Pin XP1-3
+Add Pin To Net: Unknown Pin: Pin XP1-4
+Add Pin To Net: Unknown Pin: Pin XP1-5
+Add Class Member: Failed to add class member : Component XP1 MSTB 2,5 5-GF-5,08

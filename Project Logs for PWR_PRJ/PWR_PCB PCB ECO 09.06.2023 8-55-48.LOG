@@ -1,0 +1,68 @@
+Add Component: Footprint Not Found RM96
+Add Component: Footprint Not Found RM96
+Add Component: Footprint Not Found RM96
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found BAS-216
+Add Component: Footprint Not Found BAS-216
+Add Component: Footprint Not Found BAS-216
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found MSTB 2.5 5-GF-5.08
+Added Component: Designator=XP8(MSTB 2,5/2-GF-5,08)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.phoenixcontact.com/ru-pc/produkty/korpusnaa-cast-dla-pecatnyh-plat-mstb-25-2-gf-508-1776508"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.phoenixcontact.com/ru-pc/produkty/korpusnaa-cast-dla-pecatnyh-plat-mstb-25-2-gf-508-1776508"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin K2-1
+Add Pin To Net: Unknown Pin: Pin K2-2
+Add Pin To Net: Unknown Pin: Pin K2-4
+Add Pin To Net: Unknown Pin: Pin K2-5
+Add Pin To Net: Unknown Pin: Pin K3-1
+Add Pin To Net: Unknown Pin: Pin K3-2
+Add Pin To Net: Unknown Pin: Pin K3-3
+Add Pin To Net: Unknown Pin: Pin K3-4
+Add Pin To Net: Unknown Pin: Pin K4-1
+Add Pin To Net: Unknown Pin: Pin K4-2
+Add Pin To Net: Unknown Pin: Pin K4-3
+Add Pin To Net: Unknown Pin: Pin K4-4
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin VD2-1
+Add Pin To Net: Unknown Pin: Pin VD2-2
+Add Pin To Net: Unknown Pin: Pin VD3-1
+Add Pin To Net: Unknown Pin: Pin VD3-2
+Add Pin To Net: Unknown Pin: Pin VD5-1
+Add Pin To Net: Unknown Pin: Pin VD5-2
+Add Pin To Net: Unknown Pin: Pin VT2-1
+Add Pin To Net: Unknown Pin: Pin VT2-2
+Add Pin To Net: Unknown Pin: Pin VT2-3
+Add Pin To Net: Unknown Pin: Pin VT3-1
+Add Pin To Net: Unknown Pin: Pin VT3-2
+Add Pin To Net: Unknown Pin: Pin VT3-3
+Add Pin To Net: Unknown Pin: Pin XP1-1
+Add Pin To Net: Unknown Pin: Pin XP1-2
+Add Pin To Net: Unknown Pin: Pin XP1-3
+Add Pin To Net: Unknown Pin: Pin XP1-4
+Add Pin To Net: Unknown Pin: Pin XP1-5
+Add Class Member: Failed to add class member : Component K2 RM96
+Add Class Member: Failed to add class member : Component K3 RM96
+Add Class Member: Failed to add class member : Component K4 RM96
+Add Class Member: Failed to add class member : Component U2 LTV-357
+Add Class Member: Failed to add class member : Component U3 LTV-357
+Add Class Member: Failed to add class member : Component VD2 BAS-216
+Add Class Member: Failed to add class member : Component VD3 BAS-216
+Add Class Member: Failed to add class member : Component VD5 BAS-216
+Add Class Member: Failed to add class member : Component VT2 NX7002
+Add Class Member: Failed to add class member : Component VT3 NX7002
+Add Class Member: Failed to add class member : Component XP1 MSTB 2,5 5-GF-5,08
+Added Member To Class: ClassName=PWR_SCH Member=Component XP8 MSTB 2,5/2-GF-5,08

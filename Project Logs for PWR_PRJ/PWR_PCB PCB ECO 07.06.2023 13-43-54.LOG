@@ -1,0 +1,300 @@
+Add Component: Footprint Not Found IC_P850-G120-WH
+Add Component: Footprint Not Found IC_P850-G120-WH
+Add Component: Footprint Not Found IC_P850-G120-WH
+Add Component: Footprint Not Found IC_P850-G120-WH
+Add Component: Footprint Not Found IC_P850-G120-WH
+Add Component: Footprint Not Found IC_P850-G120-WH
+Add Component: Footprint Not Found TVS_2031-42T-SM-RPLF
+Add Component: Footprint Not Found TVS_2031-42T-SM-RPLF
+Add Component: Footprint Not Found TVS_2031-42T-SM-RPLF
+Add Component: Footprint Not Found TVS_2031-42T-SM-RPLF
+Add Component: Footprint Not Found TVS_2031-42T-SM-RPLF
+Add Component: Footprint Not Found TVS_2031-42T-SM-RPLF
+Add Component: Footprint Not Found TVS_2031-42T-SM-RPLF
+Add Component: Footprint Not Found TVS_2031-42T-SM-RPLF
+Add Component: Footprint Not Found TVS_2031-42T-SM-RPLF
+Add Component: Footprint Not Found TVS_2031-42T-SM-RPLF
+Add Component: Footprint Not Found TVS_2031-42T-SM-RPLF
+Add Component: Footprint Not Found TVS_2031-42T-SM-RPLF
+Add Component: Footprint Not Found RM96
+Add Component: Footprint Not Found RM96
+Add Component: Footprint Not Found RM96
+Add Component: Footprint Not Found IND_B82725S2602N002
+Added Component: Designator=R10(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079719"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079716"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5K"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES: 0603)
+Add component (AddParameter): Name = "Help URL"; Value = "https://www.chipdip.by/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found DO214AA
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found LTV-357
+Add Component: Footprint Not Found BAS-216
+Add Component: Footprint Not Found BAS-216
+Add Component: Footprint Not Found BAS-216
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found NX7002
+Add Component: Footprint Not Found MSTB 2.5 5-GF-5.08
+Add Component: Footprint Not Found MSTB 2.5 5-GF-5.08
+Add Component: Footprint Not Found MSTB 2.5 5-GF-5.08
+Add Component: Footprint Not Found IDC-40
+Add Pin To Net: Unknown Pin: Pin F1-1A
+Add Pin To Net: Unknown Pin: Pin F1-1
+Add Pin To Net: Unknown Pin: Pin F1-3A
+Add Pin To Net: Unknown Pin: Pin F1-3
+Add Pin To Net: Unknown Pin: Pin F1-4A
+Add Pin To Net: Unknown Pin: Pin F1-4
+Add Pin To Net: Unknown Pin: Pin F1-6A
+Add Pin To Net: Unknown Pin: Pin F1-6
+Add Pin To Net: Unknown Pin: Pin F3-1A
+Add Pin To Net: Unknown Pin: Pin F3-1
+Add Pin To Net: Unknown Pin: Pin F3-3A
+Add Pin To Net: Unknown Pin: Pin F3-3
+Add Pin To Net: Unknown Pin: Pin F3-4A
+Add Pin To Net: Unknown Pin: Pin F3-4
+Add Pin To Net: Unknown Pin: Pin F3-6A
+Add Pin To Net: Unknown Pin: Pin F3-6
+Add Pin To Net: Unknown Pin: Pin F4-1A
+Add Pin To Net: Unknown Pin: Pin F4-1
+Add Pin To Net: Unknown Pin: Pin F4-3A
+Add Pin To Net: Unknown Pin: Pin F4-3
+Add Pin To Net: Unknown Pin: Pin F4-4A
+Add Pin To Net: Unknown Pin: Pin F4-4
+Add Pin To Net: Unknown Pin: Pin F4-6A
+Add Pin To Net: Unknown Pin: Pin F4-6
+Add Pin To Net: Unknown Pin: Pin F5-1A
+Add Pin To Net: Unknown Pin: Pin F5-1
+Add Pin To Net: Unknown Pin: Pin F5-3A
+Add Pin To Net: Unknown Pin: Pin F5-3
+Add Pin To Net: Unknown Pin: Pin F5-4A
+Add Pin To Net: Unknown Pin: Pin F5-4
+Add Pin To Net: Unknown Pin: Pin F5-6A
+Add Pin To Net: Unknown Pin: Pin F5-6
+Add Pin To Net: Unknown Pin: Pin F6-1A
+Add Pin To Net: Unknown Pin: Pin F6-1
+Add Pin To Net: Unknown Pin: Pin F6-3A
+Add Pin To Net: Unknown Pin: Pin F6-3
+Add Pin To Net: Unknown Pin: Pin F6-4A
+Add Pin To Net: Unknown Pin: Pin F6-4
+Add Pin To Net: Unknown Pin: Pin F6-6A
+Add Pin To Net: Unknown Pin: Pin F6-6
+Add Pin To Net: Unknown Pin: Pin F7-1A
+Add Pin To Net: Unknown Pin: Pin F7-1
+Add Pin To Net: Unknown Pin: Pin F7-3A
+Add Pin To Net: Unknown Pin: Pin F7-3
+Add Pin To Net: Unknown Pin: Pin F7-4A
+Add Pin To Net: Unknown Pin: Pin F7-4
+Add Pin To Net: Unknown Pin: Pin F7-6A
+Add Pin To Net: Unknown Pin: Pin F7-6
+Add Pin To Net: Unknown Pin: Pin G1-1
+Add Pin To Net: Unknown Pin: Pin G1-2
+Add Pin To Net: Unknown Pin: Pin G2-1
+Add Pin To Net: Unknown Pin: Pin G2-2
+Add Pin To Net: Unknown Pin: Pin G5-1
+Add Pin To Net: Unknown Pin: Pin G5-2
+Add Pin To Net: Unknown Pin: Pin G6-1
+Add Pin To Net: Unknown Pin: Pin G6-2
+Add Pin To Net: Unknown Pin: Pin G7-1
+Add Pin To Net: Unknown Pin: Pin G7-2
+Add Pin To Net: Unknown Pin: Pin G8-1
+Add Pin To Net: Unknown Pin: Pin G8-2
+Add Pin To Net: Unknown Pin: Pin G9-1
+Add Pin To Net: Unknown Pin: Pin G9-2
+Add Pin To Net: Unknown Pin: Pin G10-1
+Add Pin To Net: Unknown Pin: Pin G10-2
+Add Pin To Net: Unknown Pin: Pin G11-1
+Add Pin To Net: Unknown Pin: Pin G11-2
+Add Pin To Net: Unknown Pin: Pin G12-1
+Add Pin To Net: Unknown Pin: Pin G12-2
+Add Pin To Net: Unknown Pin: Pin G13-1
+Add Pin To Net: Unknown Pin: Pin G13-2
+Add Pin To Net: Unknown Pin: Pin G14-1
+Add Pin To Net: Unknown Pin: Pin G14-2
+Add Pin To Net: Unknown Pin: Pin K2-1
+Add Pin To Net: Unknown Pin: Pin K2-2
+Add Pin To Net: Unknown Pin: Pin K2-4
+Add Pin To Net: Unknown Pin: Pin K2-5
+Add Pin To Net: Unknown Pin: Pin K3-1
+Add Pin To Net: Unknown Pin: Pin K3-2
+Add Pin To Net: Unknown Pin: Pin K3-3
+Add Pin To Net: Unknown Pin: Pin K3-4
+Add Pin To Net: Unknown Pin: Pin K4-1
+Add Pin To Net: Unknown Pin: Pin K4-2
+Add Pin To Net: Unknown Pin: Pin K4-3
+Add Pin To Net: Unknown Pin: Pin K4-4
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-4
+Added Pin To Net: NetName=VCC_5V Pin=R10-1
+Added Pin To Net: NetName=GND_??? Pin=R10-2
+Added Pin To Net: NetName=NetK3_2 Pin=R11-1
+Added Pin To Net: NetName=VCC_12V Pin=R11-2
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=GND_??? Pin=R13-1
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=GND_??? Pin=R14-1
+Added Pin To Net: NetName=NetR12_1 Pin=R14-2
+Added Pin To Net: NetName=GND_??? Pin=R15-1
+Added Pin To Net: NetName=VCC_12V Pin=R15-2
+Add Pin To Net: Unknown Pin: Pin TVS1-1
+Add Pin To Net: Unknown Pin: Pin TVS1-2
+Add Pin To Net: Unknown Pin: Pin TVS2-1
+Add Pin To Net: Unknown Pin: Pin TVS2-2
+Add Pin To Net: Unknown Pin: Pin TVS3-1
+Add Pin To Net: Unknown Pin: Pin TVS3-2
+Add Pin To Net: Unknown Pin: Pin TVS4-1
+Add Pin To Net: Unknown Pin: Pin TVS4-2
+Add Pin To Net: Unknown Pin: Pin TVS5-1
+Add Pin To Net: Unknown Pin: Pin TVS5-2
+Add Pin To Net: Unknown Pin: Pin TVS6-1
+Add Pin To Net: Unknown Pin: Pin TVS6-2
+Add Pin To Net: Unknown Pin: Pin TVS7-1
+Add Pin To Net: Unknown Pin: Pin TVS7-2
+Add Pin To Net: Unknown Pin: Pin TVS8-1
+Add Pin To Net: Unknown Pin: Pin TVS8-2
+Add Pin To Net: Unknown Pin: Pin TVS9-1
+Add Pin To Net: Unknown Pin: Pin TVS9-2
+Add Pin To Net: Unknown Pin: Pin TVS10-1
+Add Pin To Net: Unknown Pin: Pin TVS10-2
+Add Pin To Net: Unknown Pin: Pin TVS11-1
+Add Pin To Net: Unknown Pin: Pin TVS11-2
+Add Pin To Net: Unknown Pin: Pin TVS12-1
+Add Pin To Net: Unknown Pin: Pin TVS12-2
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Added Pin To Net: NetName=N Pin=UG?-1
+Added Pin To Net: NetName=L Pin=UG?-2
+Add Pin To Net: Unknown Pin: Pin VD2-1
+Add Pin To Net: Unknown Pin: Pin VD2-2
+Add Pin To Net: Unknown Pin: Pin VD3-1
+Add Pin To Net: Unknown Pin: Pin VD3-2
+Add Pin To Net: Unknown Pin: Pin VD5-1
+Add Pin To Net: Unknown Pin: Pin VD5-2
+Add Pin To Net: Unknown Pin: Pin VT2-1
+Add Pin To Net: Unknown Pin: Pin VT2-2
+Add Pin To Net: Unknown Pin: Pin VT2-3
+Add Pin To Net: Unknown Pin: Pin VT3-1
+Add Pin To Net: Unknown Pin: Pin VT3-2
+Add Pin To Net: Unknown Pin: Pin VT3-3
+Add Pin To Net: Unknown Pin: Pin XP3-1
+Add Pin To Net: Unknown Pin: Pin XP3-2
+Add Pin To Net: Unknown Pin: Pin XP3-3
+Add Pin To Net: Unknown Pin: Pin XP3-4
+Add Pin To Net: Unknown Pin: Pin XP3-5
+Add Pin To Net: Unknown Pin: Pin XP4-1
+Add Pin To Net: Unknown Pin: Pin XP4-2
+Add Pin To Net: Unknown Pin: Pin XP4-3
+Add Pin To Net: Unknown Pin: Pin XP4-4
+Add Pin To Net: Unknown Pin: Pin XP4-5
+Add Pin To Net: Unknown Pin: Pin XP5-1
+Add Pin To Net: Unknown Pin: Pin XP5-2
+Add Pin To Net: Unknown Pin: Pin XP5-3
+Add Pin To Net: Unknown Pin: Pin XP5-4
+Add Pin To Net: Unknown Pin: Pin XP5-5
+Add Pin To Net: Unknown Pin: Pin XP6-1
+Add Pin To Net: Unknown Pin: Pin XP6-2
+Add Pin To Net: Unknown Pin: Pin XP6-3
+Add Pin To Net: Unknown Pin: Pin XP6-4
+Add Pin To Net: Unknown Pin: Pin XP6-5
+Add Pin To Net: Unknown Pin: Pin XP6-6
+Add Pin To Net: Unknown Pin: Pin XP6-7
+Add Pin To Net: Unknown Pin: Pin XP6-8
+Add Pin To Net: Unknown Pin: Pin XP6-9
+Add Pin To Net: Unknown Pin: Pin XP6-10
+Add Pin To Net: Unknown Pin: Pin XP6-11
+Add Pin To Net: Unknown Pin: Pin XP6-12
+Add Pin To Net: Unknown Pin: Pin XP6-13
+Add Pin To Net: Unknown Pin: Pin XP6-14
+Add Pin To Net: Unknown Pin: Pin XP6-15
+Add Class Member: Failed to add class member : Component F1 P850-G120-WH
+Add Class Member: Failed to add class member : Component F3 P850-G120-WH
+Add Class Member: Failed to add class member : Component F4 P850-G120-WH
+Add Class Member: Failed to add class member : Component F5 P850-G120-WH
+Add Class Member: Failed to add class member : Component F6 P850-G120-WH
+Add Class Member: Failed to add class member : Component F7 P850-G120-WH
+Add Class Member: Failed to add class member : Component G1 B88069X
+Add Class Member: Failed to add class member : Component G2 B88069X
+Add Class Member: Failed to add class member : Component G5 B88069X
+Add Class Member: Failed to add class member : Component G6 B88069X
+Add Class Member: Failed to add class member : Component G7 B88069X
+Add Class Member: Failed to add class member : Component G8 B88069X
+Add Class Member: Failed to add class member : Component G9 B88069X
+Add Class Member: Failed to add class member : Component G10 B88069X
+Add Class Member: Failed to add class member : Component G11 B88069X
+Add Class Member: Failed to add class member : Component G12 B88069X
+Add Class Member: Failed to add class member : Component G13 B88069X
+Add Class Member: Failed to add class member : Component G14 B88069X
+Add Class Member: Failed to add class member : Component K2 RM96
+Add Class Member: Failed to add class member : Component K3 RM96
+Add Class Member: Failed to add class member : Component K4 RM96
+Add Class Member: Failed to add class member : Component L1 B82725S2602N002
+Added Member To Class: ClassName=PWR_SCH Member=Component R10
+Added Member To Class: ClassName=PWR_SCH Member=Component R11
+Added Member To Class: ClassName=PWR_SCH Member=Component R12
+Added Member To Class: ClassName=PWR_SCH Member=Component R13
+Added Member To Class: ClassName=PWR_SCH Member=Component R14
+Added Member To Class: ClassName=PWR_SCH Member=Component R15
+Add Class Member: Failed to add class member : Component TVS1 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS2 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS3 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS4 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS5 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS6 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS7 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS8 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS9 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS10 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS11 SMBJ16A
+Add Class Member: Failed to add class member : Component TVS12 SMBJ16A
+Add Class Member: Failed to add class member : Component U2 LTV-357
+Add Class Member: Failed to add class member : Component U3 LTV-357
+Add Class Member: Failed to add class member : Component VD2 BAS-216
+Add Class Member: Failed to add class member : Component VD3 BAS-216
+Add Class Member: Failed to add class member : Component VD5 BAS-216
+Add Class Member: Failed to add class member : Component VT2 NX7002
+Add Class Member: Failed to add class member : Component VT3 NX7002
+Add Class Member: Failed to add class member : Component XP3 MSTB 2,5 5-GF-5,08
+Add Class Member: Failed to add class member : Component XP4 MSTB 2,5 5-GF-5,08
+Add Class Member: Failed to add class member : Component XP5 MSTB 2,5 5-GF-5,08
+Add Class Member: Failed to add class member : Component XP6 IDC-40
